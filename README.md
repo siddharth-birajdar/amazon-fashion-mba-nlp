@@ -1,6 +1,5 @@
 # Fashion Review Analytics: Market Basket Analysis, Text Mining & Predictive Modeling
 
-**BAN 5743 — Predictive Analytics | Module 6**
 **Dataset:** Amazon Reviews 2023 (Fashion vertical) · UCSD McAuley Lab
 **Stack:** Python · mlxtend · scikit-learn · VADER · LDA · pandas
 
